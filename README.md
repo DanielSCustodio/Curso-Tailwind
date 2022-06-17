@@ -1,5 +1,5 @@
 # Curso Tailwind
-*Conteúdo
+## Conteúdo
 
 > 
 > Criar projetos de Tailwind com Grid CSS e Flexbox
