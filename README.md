@@ -1,6 +1,6 @@
 # Curso Tailwind
 ## Conteúdo
-
+Repositório de estudos. 
 > 
 > Criar projetos de Tailwind com Grid CSS e Flexbox
 > 
